@@ -5,7 +5,7 @@
 **Update Frequency**: Occasionally
 
 # Purpose
-The purpose of the scripted portion of this project was to perform QA/QC when performing data analysis on tabular and GIS data, and show the workflows I used to generate map layouts. The workflows presented in this project were used for my analysis of the [Jackson, MS water crisis of 2022](https://disasterphilanthropy.org/disasters/jackson-mississippi-water-crisis/).
+The purpose of the scripted portion of this project was to perform QA/QC when performing data analysis on tabular and GIS data, and show the workflows I used to generate map layouts. Some functions the script performs include masking data to polygon feature(s), ensuring data is correctly projected, and performing multi-step data processing. The workflows presented in this project were used for my analysis of the [Jackson, MS water crisis of 2022](https://disasterphilanthropy.org/disasters/jackson-mississippi-water-crisis/).
 # Files Overview
 
 ## layouts/FINAL_Jackson_MS_Water_Crisis_0001.png

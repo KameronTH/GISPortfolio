@@ -9,11 +9,11 @@ The purpose of the scripted portion of this project was to perform QA/QC when pe
 # Files Overview
 
 ## layouts/FINAL_Jackson_MS_Water_Crisis_0001.png
-[Jackson's Overwhelmed Water Treatment. A look into the 2022 Water Crisis](layouts/FINAL_Jackson_MS_Water_Crisis_0001.png)
+![Jackson's Overwhelmed Water Treatment. A look into the 2022 Water Crisis](layouts/FINAL_Jackson_MS_Water_Crisis_0001.png)
 The purpose of this map is to show the extent of the [Pearl River's flood on 08-29-2022](https://water.noaa.gov/gauges/jacm6) during the August 2022 flood. The flood's crest was 35.38 ft according to [NOAA records](https://water.noaa.gov/gauges/jacm6), but geospatial projections for the river's flood crest were not created for 35ft [ArcGIS Online](https://www.arcgis.com/home/item.html?id=204873fab8434a34896bb7a35543d8e2), so I used estimates based on a 34 ft extent. I decided to choose the lower estimate to avoid misrepresenting the extent of flood. The J.H. Fewell and O B Curtis Water Treatment Plants were included to show the estimated proximity of the flood's crest to these water treatment plants. Flood Extent data was provided by NOAA [ArcGIS Online](https://www.arcgis.com/home/item.html?id=204873fab8434a34896bb7a35543d8e2), and the Pearl River linear feature was obtained from [OpenStreetMap](https://www.openstreetmap.org) data.
 
 ## layouts/FINAL_Jackson_MS_Water_Crisis_0002.png
-[Water Distribution Centers Per 10,000 residents during the 2022 Water Crisis](layouts/FINAL_Jackson_MS_Water_Crisis_0002.png)
+![Water Distribution Centers Per 10,000 residents during the 2022 Water Crisis](layouts/FINAL_Jackson_MS_Water_Crisis_0002.png)
 The purpose of this map is to visualize the populations surrounding emergency water distribution centers and show the estimated number of distribution centers per 10,000 residents based on zip code population aggregations. Addresses for the locations of distribution centers were obtained from [Mississippi Today](https://mississippitoday.org/2022/08/30/heres-where-to-get-water-in-jackson/).
 
 ## data_processing.py

@@ -19,9 +19,9 @@ The purpose of this map is to visualize the populations surrounding emergency wa
 ## data_processing.py
 This script contains the class I created for processing common geoprocessing workflows pertaining to this project. The **JacksonDataProcessing** class packages all the geoprocessing workflows and provides useful defaults in the form of class parameters. This allows me to utilize these workflows for future projects if similar circumstances arise. The purpose or function of the class methods are detailed in the method's docstrings.
 
-# data_processing_walkthrough_3.html
+## data_processing_walkthrough_3.html
 A html file containing steps for how I used the **JacksonDataProcessing** class from the data_processing.py module to perform spatial and tabular data analysis and processing. May require viewing inside a browser. The html was made from Jupyter Notebook output.
-# data_processing_walkthrough.ipynb
+## data_processing_walkthrough.ipynb
 A Jupyter Notebook file containing steps for how I used the **JacksonDataProcessing** class from the data_processing.py module to perform spatial and tabular data analysis and processing.
 # Acknowledgements
 [Center for Disaster Philanthropy](https://disasterphilanthropy.org/about/)\
